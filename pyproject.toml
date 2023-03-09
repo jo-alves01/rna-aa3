@@ -2,7 +2,7 @@
 name = "rna-aa3"
 version = "0.1.0"
 description = "Prever o risco durante a gravidez de uma mulher."
-authors = ["dfox <vhsdl.eng19@uea.edu.br>, jo-alves01 <jcsa.eng17@uea.edu.br>, carlosMachado1 <cgdsm.eng18@uea.edu.br>, gabi195 <grm.eng19@uea.edu.br>"]
+authors = ["Leikode <vhsdl.eng19@uea.edu.br>, jo-alves01 <jcsa.eng17@uea.edu.br>, carlosMachado1 <cgdsm.eng18@uea.edu.br>, gabi195 <grm.eng19@uea.edu.br>"]
 readme = "README.md"
 packages = [{include = "rna_aa3"}]
 
